@@ -1,7 +1,7 @@
 name: Photos by Drew
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.11172
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.125
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.75
+    - '#332d28'
+    - '#f6fafd'
+    - '#726960'
+    - '#a5a077'
+    - '#c0c8cd'
+  brandStrength: 0.5
+  lightness: 0.3125
+  saturation: 0.4375
+  rhythmicContrast: 0
 purpose: []
