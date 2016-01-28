@@ -1,7 +1,7 @@
 name: Photos by Drew
 favicon: null
-layout_spectrum: 0.08209772570990026
-typography_spectrum: 0.28110601869411767
+layout_spectrum: 0.25683
+typography_spectrum: 0.09365
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.5159032889641821
+  brandStrength: 0.375
   lightness: 0.11283763824030757
-  saturation: 0.7674162671901286
+  saturation: 0.5
   rhythmicContrast: 0.9194695933256298
 purpose: []
