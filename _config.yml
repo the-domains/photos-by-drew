@@ -1,29 +1,41 @@
-name: Photos by Drew
-favicon: null
-layout_spectrum: 0.75493
-typography_spectrum: 0
-title: Drew MacG Test
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  brandStrength: 0.5
+  saturation: 0.4375
   brandColors:
     - '#332d28'
     - '#f6fafd'
     - '#726960'
     - '#a5a077'
     - '#c0c8cd'
-  brandStrength: 0.5
   lightness: 0.3125
-  saturation: 0.4375
   rhythmicContrast: 0
+title: Drew MacG Test
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  version: null
+  bucket: null
+  domain: null
+favicon: null
+layout_spectrum: 0.75493
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
+name: Photos by Drew
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0
